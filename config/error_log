@@ -1,0 +1,12 @@
+[15-Jan-2025 06:59:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/full90performanc/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/full90performanc/public_html/config/database.php on line 18
+[16-Jan-2025 15:19:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/full90performanc/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/full90performanc/public_html/config/database.php on line 18
+[02-Feb-2025 23:32:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/full90performanc/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/full90performanc/public_html/config/app.php on line 16
